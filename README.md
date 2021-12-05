@@ -1,4 +1,4 @@
 # ControlAsistencia
 Examen  final de Ingenieria de Software
 
-[hola](man)
+[Ejecutable exe](https://github.com/fredjotak/ControlAsistencia/blob/main/CapaPresentacion/bin/Debug/CapaPresentacion.exe)
