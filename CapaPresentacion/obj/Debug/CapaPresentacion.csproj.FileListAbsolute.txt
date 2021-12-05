@@ -1,0 +1,60 @@
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\bin\Debug\CapaDatos.dll
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+c:\users\bolivia\documents\visual studio 2015\Projects\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Arecks\Desktop\Proyecto\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Arecks\Desktop\Proyecto Freddy\Proyecto\TiendaCel\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\obj\Debug\CapaPresentacion.Form1.resources
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\xampp\htdocs\2021_2\materias\ids_744\semana_17\ControlAsistencia\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
